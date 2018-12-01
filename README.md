@@ -1,5 +1,4 @@
-# machinelearning
-My Learnings on Machine Learning
+# My Learnings on Machine Learning
 
 <h1>Machine Learning Trials</h1>
 
