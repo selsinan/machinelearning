@@ -14,7 +14,7 @@
 
 <h2>How to Run</h2>
 
-<li>You can find how to run jupyter notebooks <a href="https://jupyter-notebook.readthedocs.io/en/stable/">here</a>)</li>
+<li>You can find how to run jupyter notebooks: <a href="https://jupyter-notebook.readthedocs.io/en/stable/">here</a>)</li>
 <li>You can find movielens dataset: <a href="https://movielens.org/">here</a>)</li>
 
 </body>
